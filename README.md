@@ -3,10 +3,10 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.sitepoint.com/github-profile-readme/som214">
+  <a href="https://www.sitepoint.com/github-profile-readme/www.twitch.tv/awws0m">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.sitepoint.com/github-profile-readme/awws0m">
+  <a href="https://www.sitepoint.com/github-profile-readme/www.twitch.tv/awws0m">
     <img src="https://img.shields.io/badge/Twitch-blueviolet?style=for-the-badge&logo=twitch&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://www.sitepoint.com/github-profile-readme/som#0003">
