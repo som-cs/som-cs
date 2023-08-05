@@ -1,68 +1,39 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/NHUONhmbo448/giphy.gif" width="400"/>
-</div>
+<h3 align="center">
+	<img src="https://avatars.githubusercontent.com/u/20444045?s=400&u=e85c4bc03615cb8b0fb7ac83d1aadb6470e269a2&v=4" width="100" alt="Som"/><br/>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/som214/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.twitch.tv/awws0m">
-    <img src="https://img.shields.io/badge/Twitch-blueviolet?style=for-the-badge&logo=twitch&logoColor=white" alt="Youtube Badge"/>
-  </a>
+	Som
+
+</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" alt="catppuccin palette" width="400" />
+</p>
+
+
+<p align="center">
+Small dev trying to get into Cybersecurity and maybe a little design. Have a look around and let me know which projects you like.
+</p>
+
+<p align="center">
+  Contact Me
+</p>
+
+<p align="center">
   <a href="https://discord.com/users/391636126265245697">
-    <img src="https://img.shields.io/badge/Discord-7289d9?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+    <picture>
+      <source srcset="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/social/macchiato_discord.svg" width="64" height="64" alt="Discord Logo" media="(prefers-color-scheme: dark)"/>
+      <source srcset="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/social/latte_discord.svg" width="64" height="64" alt="Discord Logo" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+      <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/social/latte_discord.svg" width="64" height="64" alt="Discord Logo"/>
+    </picture>
   </a>
-</div>
-
-<div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=som-cs&style=flat-square&color=blue" alt=""/>
-</div>
-
-<div align="center">
-  <h1>
-    hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-  <hr>
-</div>
-
-### About Me :
-
-I am a some developer idk anything.
-
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring new technologies and like cyber security and AI/ML.
-
-- :zap: In my free time, I am either on spotify or steam.
-
----
-
-### Languages and Tools :
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="Node" alt="Node" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="cpp" alt="cpp" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" title="django" alt="django" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="js" alt="js" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="ts" alt="ts" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongo" alt="mongo" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="kotlin" alt="kotlin" width="40" height="40"/>&nbsp;  
-  </div>
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="1" width="5"/>
   
-  ---
-
-### :fire: My Stats :
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=som-cs&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=som-cs&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
+  <a href="https://cyberplace.social/@som">
+    <picture>
+      <source srcset="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/social/macchiato_mastodon.svg" width="64" height="64" alt="Mastodon Logo" media="(prefers-color-scheme: dark)"/>
+      <source srcset="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/social/latte_mastodon.svg" width="64" height="64" alt="Mastodon Logo" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+      <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/social/latte_mastodon.svg" width="64" height="64" alt="Mastodon Logo"/>
+    </picture>
+  </a>
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="1" width="5"/>
+</p>
