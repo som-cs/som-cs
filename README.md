@@ -1,7 +1,8 @@
 <h3 align="center">
-	<img src="https://avatars.githubusercontent.com/u/20444045?s=400&u=e85c4bc03615cb8b0fb7ac83d1aadb6470e269a2&v=4" width="100" alt="Som"/><br/>
+	<img src="https://avatars.githubusercontent.com/u/20444045?s=400&u=e85c4bc03615cb8b0fb7ac83d1aadb6470e269a2&v=4" width="100" alt="Som"/><br/><br/>
 
-	Som
+
+<h3 align="center">Som</h3>
 
 </h3>
 
