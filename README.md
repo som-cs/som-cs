@@ -28,13 +28,5 @@ Small dev trying to get into Cybersecurity and maybe a little design. Have a loo
     </picture>
   </a>
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="1" width="5"/>
-  
-  <a href="https://cyberplace.social/@som">
-    <picture>
-      <source srcset="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/social/macchiato_mastodon.svg" width="64" height="64" alt="Mastodon Logo" media="(prefers-color-scheme: dark)"/>
-      <source srcset="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/social/latte_mastodon.svg" width="64" height="64" alt="Mastodon Logo" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-      <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/social/latte_mastodon.svg" width="64" height="64" alt="Mastodon Logo"/>
-    </picture>
-  </a>
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="1" width="5"/>
 </p>
